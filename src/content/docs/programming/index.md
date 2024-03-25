@@ -1,4 +1,6 @@
-# Programming Languages
+---
+title: Programming Languages
+---
 
 Its important you learn one language for quick scripting and another for systems programming. This will give you flexibility to work with low level systems, and the power to quickly automate or solve your problems. Dont fuss too much on specifics just yet, just learn enough to move on. You will pickup the rest on your own with experience.
 
