@@ -1,5 +1,5 @@
 ---
-name: Essential Linux commands
+title: Essential Linux commands
 ---
 
 Top (25) Linux commands and terminal tools to learn. You can 'Google' each of these commands or use the built in manual (man) in Linux to learn about them.
